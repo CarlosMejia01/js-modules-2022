@@ -30,4 +30,7 @@ export class Math {
 
 //export default
 
-export default name;
+export default {
+    name: 'some name',
+    number: 30
+}
