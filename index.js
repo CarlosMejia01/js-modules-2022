@@ -1,3 +1,4 @@
-import x from "./math.js";
+import math from "./math.js";
 
-console.log(x.name, x.number);
+console.log(math.add(10,100));
+console.log(math.subtract(100,100));

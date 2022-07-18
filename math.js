@@ -31,6 +31,6 @@ export class Math {
 //export default
 
 export default {
-    name: 'some name',
-    number: 30
+    add,
+    subtract
 }
