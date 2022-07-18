@@ -27,3 +27,7 @@ export class Math {
         return x * x;
     };
 };
+
+//export default
+
+export default name;
